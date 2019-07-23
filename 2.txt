@@ -1,3 +1,7 @@
 ekhane o ja khushi lekhlam 
 notun arekta line add korlam
+<<<<<<< HEAD
 abar new line add korlam
+=======
+3number line 
+>>>>>>> brunch1
